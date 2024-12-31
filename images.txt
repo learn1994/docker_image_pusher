@@ -2,4 +2,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #支持私库
-bitnami/kafka:3.9.0
+elasticsearch:8.17.0
+elasticsearch:7.17.26
