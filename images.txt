@@ -4,4 +4,5 @@
 #支持私库
 #elasticsearch:8.17.0
 #elasticsearch:7.17.26
-mysql:8.4.4-oraclelinux9
+#mysql:8.4.4-oraclelinux9
+synesthesiam/opentts:zh
